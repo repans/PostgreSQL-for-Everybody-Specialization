@@ -1,0 +1,16 @@
+INSERT INTO make (name) VALUES
+    ('BMW'),
+    ('Mahindra'),
+    ('Maserati');
+
+INSERT INTO model (name, make_id) VALUES
+    ('X5 4.8IS', 1),
+    ('X5 4.8i', 1),
+    ('X5 4.8is', 1),
+    ('TR40', 2),
+    ('222E', 3);
+
+SELECT make.name as make, model.name as model 
+	FROM model 
+	JOIN make ON model.make_id = make.id 
+    ORDER BY make.name LIMIT 5;
