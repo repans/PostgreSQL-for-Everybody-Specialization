@@ -66,5 +66,5 @@ The expected result of this query on your database is:
 ```
 
 --- 
-> [Intermediate PostgreSQL](https://www.coursera.org/learn/intermediate-postgresql/) {Week-1}
+> [Intermediate PostgreSQL](https://www.coursera.org/learn/intermediate-postgresql/) {Week-2}
 
