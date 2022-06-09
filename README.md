@@ -1,4 +1,4 @@
-# [PostgreSQL for Everybody Specialization](https://www.coursera.org/specializations/postgresql-for-everybody) 
+# [PostgreSQL for Everybody Specialization](https://www.pg4e.com/) 
 
 SQL: From Basic to Advanced. Learn SQL skills you can use in an actual, real-world environment 
 
