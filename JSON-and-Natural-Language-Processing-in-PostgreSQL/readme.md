@@ -17,17 +17,17 @@ deactivation of your Coursera account.
 
 |Type |Title  |
 | --- | --- | 
-| **Graded Tasks** | [Building an Inverted Index using SQL](https://github.com/repans/PostgreSQL-for-Everybody-Specialization/blob/5399901d9c4da2064525a2855a7673aae257b7d8/JSON-and-Natural-Language-Processing-in-PostgreSQL/Week-1/Building-an-Inverted-Index-using-SQL.md) | 
-| **Graded Tasks** | [Building an Inverted Index with stop words using SQL](https://github.com/repans/PostgreSQL-for-Everybody-Specialization/blob/5399901d9c4da2064525a2855a7673aae257b7d8/JSON-and-Natural-Language-Processing-in-PostgreSQL/Week-1/Building-an-Inverted-Index-with-stop-words-using-SQL.md) |
+| **Graded Tasks** | [Building an Inverted Index using SQL](https://github.com/repans/PostgreSQL-for-Everybody-Specialization/blob/7f3f54acee4277e2b2eb7d2a8f8ad7410558785c/JSON-and-Natural-Language-Processing-in-PostgreSQL/Week-1/Building-an-Inverted-Index-using-SQL.md) | 
+| **Graded Tasks** | [Building an Inverted Index with stop words using SQL](https://github.com/repans/PostgreSQL-for-Everybody-Specialization/blob/7f3f54acee4277e2b2eb7d2a8f8ad7410558785c/JSON-and-Natural-Language-Processing-in-PostgreSQL/Week-1/Building-an-Inverted-Index-with-stop-words-using-SQL.md) |
 
 
 ### Week 2 
 
 |Type |Title  |
 | --- | --- | 
-| **Graded Tasks** | [Building a string array-based GIN index](https://github.com/repans/PostgreSQL-for-Everybody-Specialization/blob/5399901d9c4da2064525a2855a7673aae257b7d8/JSON-and-Natural-Language-Processing-in-PostgreSQL/Week-2/Building-a-string-array-based-GIN-index.md) |
-| **Graded Tasks** | [Building a tsvector-based full text GIN index](https://github.com/repans/PostgreSQL-for-Everybody-Specialization/blob/5399901d9c4da2064525a2855a7673aae257b7d8/JSON-and-Natural-Language-Processing-in-PostgreSQL/Week-2/Building-a-tsvector-based-full-text-GIN-index.md) |
-| **Quiz** | [Text In Databases](https://github.com/repans/PostgreSQL-for-Everybody-Specialization/blob/5399901d9c4da2064525a2855a7673aae257b7d8/JSON-and-Natural-Language-Processing-in-PostgreSQL/Week-2/Quiz--Text-In-Databases.md) |
+| **Graded Tasks** | [Building a string array-based GIN index](https://github.com/repans/PostgreSQL-for-Everybody-Specialization/blob/7f3f54acee4277e2b2eb7d2a8f8ad7410558785c/JSON-and-Natural-Language-Processing-in-PostgreSQL/Week-2/Building-a-string-array-based-GIN-index.md) |
+| **Graded Tasks** | [Building a tsvector-based full text GIN index](https://github.com/repans/PostgreSQL-for-Everybody-Specialization/blob/7f3f54acee4277e2b2eb7d2a8f8ad7410558785c/JSON-and-Natural-Language-Processing-in-PostgreSQL/Week-2/Building-a-tsvector-based-full-text-GIN-index.md) |
+| **Quiz** | [Text In Databases](https://github.com/repans/PostgreSQL-for-Everybody-Specialization/blob/7f3f54acee4277e2b2eb7d2a8f8ad7410558785c/JSON-and-Natural-Language-Processing-in-PostgreSQL/Week-2/Quiz--Text-In-Databases.md) |
 
 
 ### Week 3 
