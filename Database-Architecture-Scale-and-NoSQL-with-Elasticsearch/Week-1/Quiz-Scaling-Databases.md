@@ -37,38 +37,43 @@
 
 
 ### 05. Which of the following techniques has a negative performance impact (and is usually not supported) in a BASE-style database?
-- [-] Schema-on-read 
-- [ ] SERIAL primary keys
+- [ ] Schema-on-read 
+- [x] SERIAL primary keys;
 - [ ] Extending the schema on the fly
 - [ ] GUID primary keys
 
 
 ### 06. Which of the following techniques used to scale ACID-style databases is in a sense BASE-like?
-- [ ] Read replicas
+- [x] Read replicas
 - [ ] Multi-Master
 - [ ] SSD
 - [ ] Each tenant has its own database instance
-- [-] Vertical scaling
+- [ ] Vertical scaling
 
 
 ### 07. Which of these database architectures came first?
 - [ ] BASE
-- [-] ACID
-- [ ] Its complicated
+- [ ] ACID
+- [x] Its complicated   
+``` 
+At some level putting files on disk was BASE, early databases were not ACID, 
+in the 70's and 80's real databases were ACID, 
+then in the 2000's BASE remerges under the name "database".
+```
 
 
 ### 08. Which of the following does NOT belong for a BASE-style database system:
-- [ ] It is easy to have an unique integer key that increments for each row and is provided by the database
+- [x] It is easy to have an unique integer key that increments for each row and is provided by the database;
 - [ ] Data is distributed on many servers and requests can go to any server
 - [ ] A service can be scaled horizontally by adding more servers
-- [-] Data is often sharded 
+- [ ] Data is often sharded 
 
 
 ### 09. Which of these techniques is a critical element of a single-instance BLOB storage approach?
 - [ ] Alpha-Beta pruning
-- [ ] Hashing
+- [x] Hashing
 - [ ] Dictionaries
-- [-] Garbage collection
+- [ ] Garbage collection
 
 
 
